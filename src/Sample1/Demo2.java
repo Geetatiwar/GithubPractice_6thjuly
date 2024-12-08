@@ -6,6 +6,8 @@ public class Demo2
   {
 	  System.out.println("Jai Shree Ram"+" "+"Jai Shree Mahakaal");
 	  
+	  System.out.println("Jai Maa Sita"+" "+"Jai Maa Parvati");
+	  
 	  
 	  
   }
